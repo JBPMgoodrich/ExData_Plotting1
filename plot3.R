@@ -1,7 +1,7 @@
 ###
 ###
-#     plot2.R
-#     - Output: file plot2.png
+#     plot3.R
+#     - Output: file plot3.png
 #     - Assumption: Starting from R home directoy, so navigate to assignment 1 working directory
 #     - Input raw data
 
